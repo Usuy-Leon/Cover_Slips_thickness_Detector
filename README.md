@@ -1,7 +1,8 @@
 # Cover_Slips_thickness_Detector_Shinya-blades_
 
 >“Small changes in cover glass thickness or refractive index produce a disproportionately large optical path error, reducing image contrast and resolution.”
-— Inoué, S. & Spring, K. R., Video Microscopy, 2nd ed., Plenum Press (1997), §2.5.2
+>
+>— Inoué, S. & Spring, K. R., Video Microscopy, 2nd ed., Plenum Press (1997), §2.5.2
 
 This gadget is like a tiny playground for cover slips, featuring two razor-thin steel blades acting as barriers, with a shim creating a precise offset. When you drop a cover slip into the gap,  Geometry happens and makes the cover slip to tilt depending on its thickness. Even hair-thin differences in thickness become easy-to-read 
 
@@ -19,7 +20,8 @@ Yes, professional manufacturers nowadays do a decent job of reporting cover-slip
 # The Microscopist: Shinya Inoue 
 
 >“In fluorescence, phase-contrast, or quantitative polarization microscopy, consistent optical path length ensures reproducible intensity and retardation measurements”
-— Inoué, S., Collected Works, Article 4: Cover-Slip Thickness Gauge (1951)
+>
+>— Inoué, S., Collected Works, Article 4: Cover-Slip Thickness Gauge (1951)
 
 That’s why Shinya Inoué built his cover-slip thickness gauge (1951): to quickly select slips within ±0.005 mm of 0.17 mm. (Check the paper atached in files).
 
