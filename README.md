@@ -1,4 +1,4 @@
-# Cover_Slips_thickness_Detector_Shinya-blades_
+# Shinya-blades: Cover_Slips_thickness_Detector
 
 >“Small changes in cover glass thickness or refractive index produce a disproportionately large optical path error, reducing image contrast and resolution.”
 >
