@@ -52,7 +52,7 @@ The modern 3D-printed version of Inoué’s cover-slip thickness gauge preserves
 | 2 | **Razor blades** | Standard stainless steel, single or double edge |
 ---
 
-##  Assembly Steps
+#  Assembly Steps
 
 ### 1. Clean and Prepare Parts
 - Remove all printing supports and debris.  
@@ -81,8 +81,8 @@ The modern 3D-printed version of Inoué’s cover-slip thickness gauge preserves
 - Inspect the alignment: both blade tips should be parallel and evenly spaced around the recess.  
 - **The distance between them MUST BE 0.17 mm.**  
 
-# Enjoy
-**precision, simplicity, and traditional Japanese joinery**.
+## Enjoy
+**Precision, Simplicity, and Traditional Japanese Joinery**.
 
 
 # Key References:
