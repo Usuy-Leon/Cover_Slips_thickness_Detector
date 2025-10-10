@@ -30,9 +30,9 @@ That’s why Shinya Inoué built his cover-slip thickness gauge (1951): to quick
 
 In 1950, while teaching cell biology at Princeton University, Shinya Inoué realized that commercial “#1.5” cover slips, however, often varied by several micrometers. Measuring each one with a micrometer was slow and risked contamination, so Inoué devised a simple mechanical gauge in 1951.
 
-His device used two razor blades set at a fixed angle: the cover slip itself acted as a tiny lever, tilting according to its thickness. A scale converted that tilt into a direct reading in millimeters—fast, clean, and accurate to a few microns.
+His device used two razor blades set at a fixed angle: the cover slip itself acted as a tiny lever, tilting according to its thickness. A scale converted that tilt into a direct reading in millimeters fast, clean, and accurate to a few microns.
 
-Remarkably, the same gauge built more than 70 years ago was still in use in Inoué’s laboratory half a century later—a small but elegant example of his ingenuity in combining optical precision with practical design.
+Remarkably, the same gauge built more than 70 years ago was still in use in Inoué’s laboratory half a century later a small but elegant example of his ingenuity in combining optical precision with practical design.
 
 # 3D Version:  Shinya-blades thickness Detector
 
