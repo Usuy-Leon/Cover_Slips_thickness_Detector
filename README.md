@@ -75,7 +75,7 @@ The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves 
 
 ### 5. Insert and Tighten Screws
 - Ensure all holes are clear and smooth — test-fit one M2 screw to confirm easy passage. 
-- Insert the **four M2 screws** through the holes in the blade holders and back plate.  
+- Insert the **2 M2 screws** through the holes in the blade holders and back plate.  
 - Secure each with an **M2 nut** on the opposite side.  
 - Tighten the screws evenly — firm enough to clamp the blades securely, but not so tight that plastic parts deform.  
 
