@@ -1,4 +1,4 @@
-# Cover_Slips_thickness_Detector
+# Cover_Slips_thickness_Detector_Shinya-blades_
 
 >“In good Objectives, small departures in cover glass thickness or refractive index produce a disproportionately large optical path error, reducing image contrast and resolution.”
 — Inoué, S. & Spring, K. R., Video Microscopy, 2nd ed., Plenum Press (1997), §2.5.2
@@ -31,7 +31,7 @@ His device used two razor blades set at a fixed angle: the cover slip itself act
 
 Remarkably, the same gauge built more than 70 years ago was still in use in Inoué’s laboratory half a century later—a small but elegant example of his ingenuity in combining optical precision with practical design.
 
-# 3D Version: The Shinya-blades thickness Detector
+# 3D Version:  Shinya-blades thickness Detector
 
 This is a tribute to the great Shinya Inoue, but also a 3D STL file designed to be used for microscopy enthusiast and professionals. 
 
