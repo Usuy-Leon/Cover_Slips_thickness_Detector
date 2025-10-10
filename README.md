@@ -82,7 +82,11 @@ The modern 3D-printed version of Inoué’s cover-slip thickness gauge preserves
 - **The distance between them MUST BE 0.17 mm.**  
 
 ## Enjoy
-**Precision, Simplicity, and Traditional Japanese Joinery**.
+**Precision, Simplicity, and Traditional Japanese Joinery**
+
+# Want to improve it?
+
+The OpenScad code file is open source well written and clear, find it and make it yours !
 
 
 # Key References:
