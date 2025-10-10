@@ -42,23 +42,22 @@ This is a tribute to the great Shinya Inoue, but also a 3D STL file designed to 
 
 # Inovation
 
-The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves his elegant simplicity while embracing digital fabrication. Inspired by traditional Japanese joinery (kigumi) the craft of creating strong, precise wooden joints without screws or nails this design uses interlocking parts that snap together with perfect alignment. Each piece, from the base to the back plate, fits seamlessly through geometric precision rather than hardware. The result honors both Japanese craftsmanship and Inoué’s spirit of practical innovation: a timeless scientific tool reimagined with the precision and accessibility of modern 3D printing.
+The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves his elegant simplicity while embracing digital fabrication. Inspired by traditional Japanese joinery (kigumi) the craft of creating strong, precise wooden joints without screws or nails this design uses interlocking parts that snap together with perfect alignment. The results a timeless scientific tool reimagined with the precision and accessibility of modern 3D printing.
 
 # Assembly Guide
 ##  Required Materials
 
 | Quantity | Item | Notes |
 |-----------|------|-------|
-| 4 | **M2 × 12 mm screws** | Pan-head or socket-head |
-| 4 | **M2 nuts** | Nylock nuts preferred for secure hold |
+| 2 | **M2 × 12 mm screws** | Pan-head or socket-head |
+| 2 | **M2 nuts** | Nylock nuts preferred for secure hold |
 | 2 | **Razor blades** | Standard stainless steel, single or double edge |
 ---
 
 #  Assembly Steps
 
 ### 1. Clean and Prepare Parts
-- Remove all printing supports and debris.  
-- Ensure all holes are clear and smooth — test-fit one M2 screw to confirm easy passage.  
+- Remove all printing supports and debris.   
 
 ### 2. Join the Base and Back Plate
 - Align the **base plate** and **back plate** using the interlocking **kigumi joints**.  
@@ -75,6 +74,7 @@ The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves 
 - Their **tapered tips** should meet neatly at the recess, forming a precise “tweezer-like” edge.  
 
 ### 5. Insert and Tighten Screws
+- Ensure all holes are clear and smooth — test-fit one M2 screw to confirm easy passage. 
 - Insert the **four M2 screws** through the holes in the blade holders and back plate.  
 - Secure each with an **M2 nut** on the opposite side.  
 - Tighten the screws evenly — firm enough to clamp the blades securely, but not so tight that plastic parts deform.  
@@ -83,15 +83,14 @@ The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves 
 - Inspect the alignment: both blade tips should be parallel and evenly spaced around the recess.  
 - **The distance between them MUST BE 0.17 mm.**  
 
-## Enjoy
-**Precision, Simplicity, and Traditional Japanese Joinery**
+### Enjoy
 
 # Want to improve it?
 
 The OpenScad code file is open source well written and clear, find it and make it yours !
 
 
-# Key References:
+# Recomended Readings:
 
 Shillaber, C. P. (1944). Photomicrography in Theory and Practice. Wiley.
 
