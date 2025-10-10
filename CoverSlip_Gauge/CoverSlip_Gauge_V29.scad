@@ -9,11 +9,11 @@ A device to messure CoverSlips in an easy and reliable way
 
 This 3D file is designed to be for microscopy enthusiast and professionals.
      
-Source :https://github.com/Usuy-Leon/
-Inspired on the beutifull work of Shinya Inoe
+Source :https://github.com/Usuy-Leon/CoverSlip_Gauge
+Inspired on the beutifull work of Shinya Inoue
 
 This project is an Open Source project,
-by Usuy D. Leon, 2025.03.26
+by Usuy D. Leon, 2025.10.26
 Microscopist, National University of Colombia, Bogota DC,
 
     */
