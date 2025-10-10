@@ -42,7 +42,7 @@ This is a tribute to the great Shinya Inoue, but also a 3D STL file designed to 
 
 # Inovation
 
-The modern 3D-printed version of Inoué’s cover-slip thickness gauge preserves his elegant simplicity while embracing digital fabrication. Inspired by traditional Japanese joinery (kigumi) the craft of creating strong, precise wooden joints without screws or nails—this design uses interlocking parts that snap together with perfect alignment. Each piece, from the base to the back plate, fits seamlessly through geometric precision rather than hardware. The result honors both Japanese craftsmanship and Inoué’s spirit of practical innovation: a timeless scientific tool reimagined with the precision and accessibility of modern 3D printing.
+The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves his elegant simplicity while embracing digital fabrication. Inspired by traditional Japanese joinery (kigumi) the craft of creating strong, precise wooden joints without screws or nails this design uses interlocking parts that snap together with perfect alignment. Each piece, from the base to the back plate, fits seamlessly through geometric precision rather than hardware. The result honors both Japanese craftsmanship and Inoué’s spirit of practical innovation: a timeless scientific tool reimagined with the precision and accessibility of modern 3D printing.
 
 # Assembly Guide
 ##  Required Materials
