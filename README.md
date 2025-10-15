@@ -8,7 +8,11 @@
 >
 >— Inoué, S, Video Microscopy, 2nd ed., Plenum Press (1997)
 
+</div>
+
 This gadget is like a tiny playground for cover slips, featuring two razor-thin steel blades acting as barriers, with a shim creating a precise offset. When you drop a cover slip into the gap,  Geometry happens and makes the cover slip to tilt depending on its thickness. Even Hair thin differences in thickness become easy-to-read 
+
+<div align="center">
 
 ![Screencast From 2025-10-09 21-00-33](https://github.com/user-attachments/assets/acc8be34-5ad5-48b4-bd08-82d00b58fc99)
 
@@ -20,9 +24,11 @@ Cover-slip thickness is critically important in microscopy because high-resoluti
 
 Yes, professional manufacturers nowadays do a decent job of reporting cover-slip thickness correctly (Types 0 to 2). However, not all producers follow these standards, so having a tool like this can be really useful especially when working with objectives designed for specimens very close to the cover slip (corrected for 0.17 mm thickness). If you happen to use a cover slip that’s too thick, you could accidentally scratch your very expensive objective in an irreversible way.
 
-
+<div align="center">
+ 
 ![Screencast From 2025-10-09 21-04-59](https://github.com/user-attachments/assets/66af6bad-0d43-4c21-8970-a84eeefa8f4d)
 
+</div>
  
 # The Microscopist: Shinya Inoue 
 
