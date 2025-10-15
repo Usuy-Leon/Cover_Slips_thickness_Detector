@@ -19,7 +19,7 @@ This gadget is like a tiny playground for cover slips, featuring two razor-thin 
 Cover-slip thickness is critically important in microscopy because high-resolution optical systems are designed for specific optical path lengths between the specimen and the objective lens. Even small deviations from that ideal thickness can cause spherical aberration, loss of contrast, and degraded resolution.
 
 Yes, professional manufacturers nowadays do a decent job of reporting cover-slip thickness correctly (Types 0 to 2). However, not all producers follow these standards, so having a tool like this can be really useful especially when working with objectives designed for specimens very close to the cover slip (corrected for 0.17 mm thickness). If you happen to use a cover slip that’s too thick, you could accidentally scratch your very expensive objective in an irreversible way.
-</div>
+
 
 ![Screencast From 2025-10-09 21-04-59](https://github.com/user-attachments/assets/66af6bad-0d43-4c21-8970-a84eeefa8f4d)
 
@@ -47,7 +47,7 @@ Remarkably, the same gauge built more than 70 years ago was still in use in Inou
 This is a tribute to the great Shinya Inoue, but also a 3D STL file designed to be used for microscopy enthusiast and professionals. 
 
 ![Screencast From 2025-10-09 21-03-19](https://github.com/user-attachments/assets/917fb33c-f70e-4c7c-91fa-15f6fc294e41)
-
+</div>
 <div align="center">
  
 # Inovation
