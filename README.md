@@ -8,7 +8,7 @@
 This gadget is like a tiny playground for cover slips, featuring two razor-thin steel blades acting as barriers, with a shim creating a precise offset. When you drop a cover slip into the gap,  Geometry happens and makes the cover slip to tilt depending on its thickness. Even Hair thin differences in thickness become easy-to-read 
 
 ![Screencast From 2025-10-09 21-00-33](https://github.com/user-attachments/assets/acc8be34-5ad5-48b4-bd08-82d00b58fc99)
-<div 
+<div >
 
 # Why does it matter?
 
