@@ -26,15 +26,19 @@ Yes, professional manufacturers nowadays do a decent job of reporting cover-slip
  
 # The Microscopist: Shinya Inoue 
 
+<div align="center">
+
 >“In fluorescence, phase-contrast, or quantitative polarization microscopy, consistent optical path length ensures reproducible intensity and retardation measurements”
 >
 >— Inoué, S., Collected Works, Article 4: Cover-Slip Thickness Gauge (1951)
+</div>
 
  Shinya Inoué built his cover-slip thickness gauge (1951): to quickly select slips within ±0.005 mm of 0.17 mm. (Check the paper atached in files).
 
+<div align="center">
 
 ><img width="471" height="524" alt="image" src="https://github.com/user-attachments/assets/f6c995ef-197e-48a1-ba11-fd5d0f78f42d" />
-
+</div>
  
 In 1950, while teaching cell biology at Princeton University, Shinya Inoué realized that commercial “#1.5” cover slips, however, often varied by several micrometers. Measuring each one with a micrometer was slow and risked contamination, so Inoué devised a simple mechanical gauge in 1951.
 
