@@ -13,10 +13,9 @@ This gadget is like a tiny playground for cover slips, featuring two razor-thin 
 ![Screencast From 2025-10-09 21-00-33](https://github.com/user-attachments/assets/acc8be34-5ad5-48b4-bd08-82d00b58fc99)
 
 </div>
-
+<div align="left">
 
 # Why does it matter?
-<div align="left">
 Cover-slip thickness is critically important in microscopy because high-resolution optical systems are designed for specific optical path lengths between the specimen and the objective lens. Even small deviations from that ideal thickness can cause spherical aberration, loss of contrast, and degraded resolution.
 
 Yes, professional manufacturers nowadays do a decent job of reporting cover-slip thickness correctly (Types 0 to 2). However, not all producers follow these standards, so having a tool like this can be really useful especially when working with objectives designed for specimens very close to the cover slip (corrected for 0.17 mm thickness). If you happen to use a cover slip that’s too thick, you could accidentally scratch your very expensive objective in an irreversible way.
