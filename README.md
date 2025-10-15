@@ -53,7 +53,7 @@ His device used two razor blades set at a fixed angle: the cover slip itself act
 
 Remarkably, the same gauge built more than 70 years ago was still in use in Inoué’s laboratory half a century later a small but elegant example of his ingenuity in combining optical precision with practical design.
 
-# 3D Version:  Shinya-blades thickness Detector
+# 3D Version: thickness Detector
 
 This is a tribute to the great Shinya Inoue, but also a 3D STL file designed to be used for microscopy enthusiast and professionals. 
 
