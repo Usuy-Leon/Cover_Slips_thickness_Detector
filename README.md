@@ -65,7 +65,6 @@ This is a tribute to the great Shinya Inoue, but also a 3D STL file designed to 
 
 The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves his elegant simplicity while embracing digital fabrication. Inspired by traditional Japanese joinery (kigumi) the craft of creating strong, precise wooden joints without screws or nails this design uses interlocking parts that snap together with perfect alignment. The results a timeless scientific tool reimagined with the precision and accessibility of modern 3D printing.
 
-![CoverSlip_Gauge_BluePrints_page-0001](https://github.com/user-attachments/assets/e60f4539-6985-4e84-b359-af63980b2ae8)
 
 
 [CoverSlip_Gauge_BluePrints.pdf](https://github.com/user-attachments/files/22936184/CoverSlip_Gauge_BluePrints.pdf)
