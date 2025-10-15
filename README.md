@@ -56,6 +56,7 @@ The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves 
 
 </div>
 <div align="left">
+ 
 # Assembly Guide
 ##  Required Materials
 
