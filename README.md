@@ -23,7 +23,6 @@ Yes, professional manufacturers nowadays do a decent job of reporting cover-slip
 
 ![Screencast From 2025-10-09 21-04-59](https://github.com/user-attachments/assets/66af6bad-0d43-4c21-8970-a84eeefa8f4d)
 
-<div align="center">
  
 # The Microscopist: Shinya Inoue 
 
@@ -36,23 +35,21 @@ Yes, professional manufacturers nowadays do a decent job of reporting cover-slip
 
 ><img width="471" height="524" alt="image" src="https://github.com/user-attachments/assets/f6c995ef-197e-48a1-ba11-fd5d0f78f42d" />
 
-</div>
-<div align="left">
  
 In 1950, while teaching cell biology at Princeton University, Shinya Inoué realized that commercial “#1.5” cover slips, however, often varied by several micrometers. Measuring each one with a micrometer was slow and risked contamination, so Inoué devised a simple mechanical gauge in 1951.
 
 His device used two razor blades set at a fixed angle: the cover slip itself acted as a tiny lever, tilting according to its thickness. A scale converted that tilt into a direct reading in millimeters fast, clean, and accurate to a few microns.
 
 Remarkably, the same gauge built more than 70 years ago was still in use in Inoué’s laboratory half a century later a small but elegant example of his ingenuity in combining optical precision with practical design.
-</div>
 
-<div align="center">
 # 3D Version:  Shinya-blades thickness Detector
 
 This is a tribute to the great Shinya Inoue, but also a 3D STL file designed to be used for microscopy enthusiast and professionals. 
 
 ![Screencast From 2025-10-09 21-03-19](https://github.com/user-attachments/assets/917fb33c-f70e-4c7c-91fa-15f6fc294e41)
 
+<div align="center">
+ 
 # Inovation
 
 The modern 3D-printed version of Inoué’s coverSlip thickness gauge preserves his elegant simplicity while embracing digital fabrication. Inspired by traditional Japanese joinery (kigumi) the craft of creating strong, precise wooden joints without screws or nails this design uses interlocking parts that snap together with perfect alignment. The results a timeless scientific tool reimagined with the precision and accessibility of modern 3D printing.
