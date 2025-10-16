@@ -18,6 +18,7 @@ This gadget is like a tiny playground for cover slips, featuring two razor-thin 
 ![Screencast From 2025-10-09 21-00-33](https://github.com/user-attachments/assets/acc8be34-5ad5-48b4-bd08-82d00b58fc99)
 
 </div>
+<hr>
 <div align="left">
 
 # Why does it matter?
